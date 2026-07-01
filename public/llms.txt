@@ -1,0 +1,86 @@
+# Destinations in the world — Generative Engine Optimization Map
+
+> A travel destination discovery platform where users can enter the name of any destination and instantly explore curated photos and local attractions in the area. The site focuses on inspiring wanderlust and helping travelers discover new places through a visual and informative experience.
+
+---
+
+## Pages
+
+### בית
+https://destinations-in-the-world-a8d7491e.zappy5.app
+חפשו כל יעד בעולם וקבלו מיד תמונות מרהיבות ואטרקציות מקומיות מובילות. הפלטפורמה שמעוררת השראה ומגלה לכם יעדים חדשים. התחילו לטייל עכשיו!
+
+### איך זה עובד
+https://destinations-in-the-world-a8d7491e.zappy5.app/how-it-works
+גלו איך הפלטפורמה שלנו הופכת חיפוש יעדים לחוויה ויזואלית ומהירה. הקלידו שם, צפו בתמונות, ותכננו את הטיול. ככה מתחילים הרפתקה אמיתית!
+
+### השראה ליעדים
+https://destinations-in-the-world-a8d7491e.zappy5.app/destination-inspiration
+דפדפו בין תמונות עוצרות נשימה של היעדים הכי יפים בעולם וקבלו רעיונות לטיול הבא. השראה ויזואלית שתעיר בכם את התשוקה לנדוד. היכנסו עכשיו!
+
+### אודות
+https://destinations-in-the-world-a8d7491e.zappy5.app/about
+הכירו את הצוות שמאחורי פלטפורמת גילוי היעדים. אנחנו כאן כדי להפוך כל חיפוש למסע ויזואלי מעורר השראה. הצטרפו לקהילת המטיילים הסקרנים!
+
+### צור קשר
+https://destinations-in-the-world-a8d7491e.zappy5.app/contact
+יש לכם שאלה על יעדים או רעיון לשיתוף פעולה? דברו איתנו ונעזור לכם לגלות את היעד המושלם. אנחנו כאן בשביל הסקרנות שלכם. צרו קשר עכשיו!
+
+### תודה רבה | היעדים היפים בעולם
+https://destinations-in-the-world-a8d7491e.zappy5.app/thank-you
+תודה רבה על פנייתך. הודעתך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם מידע על היעדים היפים בעולם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://destinations-in-the-world-a8d7491e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://destinations-in-the-world-a8d7491e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://destinations-in-the-world-a8d7491e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://destinations-in-the-world-a8d7491e.zappy5.app/contact
+- Endpoint: https://destinations-in-the-world-a8d7491e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Destinations in the world
+A travel destination discovery platform where users can enter the name of any destination and instantly explore curated photos and local attractions in the area. The site focuses on inspiring wanderlust and helping travelers discover new places through a visual and informative experience.
+
+## Target Audience
+- מטיילים יוקרתיים
+- מחפשי הרפתקאות
+- משפחות בחופשה
+
+## Industry
+Travel & Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://destinations-in-the-world-a8d7491e.zappy5.app/sitemap.xml
+- Robots: https://destinations-in-the-world-a8d7491e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://destinations-in-the-world-a8d7491e.zappy5.app/llms-full.txt
